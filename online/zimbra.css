@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+body{
+    background-color: transparent;
+}
+#div{
+    height: 60%;
+    width: 500px;
+    border-radius: 20px;
+    display: grid;
+    margin-top: 30px;
+    font-size: 20px;
+    background-color: rgb(2, 132, 196);
+    color: #f4f0f0;
+}
+form .input{
+    width: 50%;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fff;
+    margin: 10px;
+    padding: 20px;
+}
+form .input2{
+    width: 50%;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fff;
+    margin: 20px;
+    margin-left: 70px;
+    padding: 20px;
+}
+.bnt{
+    width: 30%;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-left: 50px;
+    display: grid;
+}
+.bnt:hover{
+    color: #fff;
+    background-color: #000;
+}
